@@ -26,7 +26,6 @@ An automated silo filling system developed using PLC Ladder Logic and a silo sim
 ## Silo Simulation
 ![Silo Filling Simulation](silo-filling-system.png)
 
-## Tools Used
-- PLC Ladder Logic
-- Silo Simulator
-- PLC Programming and Simulation Environment
+## Software and Tools Used
+- LadderLab (PLC Ladder Logic Programming and Simulation)
+- Silo Process Simulator
